@@ -1,0 +1,1 @@
+# baz-vektorlerin-degisimi
